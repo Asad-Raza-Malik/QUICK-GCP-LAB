@@ -1,6 +1,6 @@
-#### Entity and Sentiment Analysis with the Natural Language API
-### Solution here
-## Run the following Commands in CloudShell
+####Entity and Sentiment Analysis with the Natural Language API
+###Solution here
+##Run the following Commands in CloudShell
 
 ```
 export ZONE=
@@ -15,6 +15,6 @@ sudo chmod +x gsp038.sh
 ./gsp038.sh
 
 ```
-## Congratulations 🎉 for Completing the Lab !
-## You Have Successfully Demonstrated Your Skills And Determination.
-## Well done!
+##Congratulations 🎉 for Completing the Lab !
+##You Have Successfully Demonstrated Your Skills And Determination.
+##Well done!
